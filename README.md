@@ -8,5 +8,5 @@ Training and validation loss per epochs:
 Validaiton accuracy per epoch:  
 ![accuracy](./accuracy.png)
 
-Losses per batch:
+Losses per batch:  
 ![loss_per_batch](./batch_loss.png)
